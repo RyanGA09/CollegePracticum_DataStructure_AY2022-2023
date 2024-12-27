@@ -18,10 +18,11 @@ An array is a data structure with a fixed (static) size based on the specified m
 
 From the definitions above, we can see that arrays and linked lists are similar but different. Some differences between arrays and linked lists include:
 
-In arrays, memory allocation is determined during declaration and is fixed, while linked lists can dynamically change their size as needed. For example:
+1. In arrays, memory allocation is determined during declaration and is fixed, while linked lists can dynamically change their size as needed. For example:
 
-Adding or deleting elements at the front and back
-Removing elements at specific positions
-Memory usage: Arrays have limited memory as defined during declaration, while linked lists can utilize memory dynamically without a predefined limit.
+- Adding or deleting elements at the front and back
+- Removing elements at specific positions
+
+2. Memory usage: Arrays have limited memory as defined during declaration, while linked lists can utilize memory dynamically without a predefined limit.
 
 Therefore, the primary difference between arrays and linked lists lies in their memory allocation and size flexibility, even though both are linear data storage structures.
