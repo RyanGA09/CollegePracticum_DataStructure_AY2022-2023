@@ -1,0 +1,27 @@
+Explanation of Struct, Stack, and Differences Between Arrays and Linked Lists
+
+A. Struct
+
+A struct is one of the data type elements in a program that consists of a collection of data types combined into one. Struct is useful for creating memory spaces to store multiple data elements within a program. By using a struct, it is possible to simplify the creation of programs such as arrays, linked lists, stacks, queues, and so on.
+
+One example of struct usage in a program is an array. Within an array, there are two ways to implement a struct. First, an array of structs, meaning that the struct elements are contained within an array. Second, a struct of arrays, meaning that arrays are elements within a struct.
+
+B. Stack
+
+A stack is one of the processes derived from the struct implementation, such as arrays, linked lists, and others. The stack itself is often described as a pile, meaning placing one element on top of another.
+
+The basic concept of a stack is LIFO (Last In, First Out), which means the last data entered will be the first to be removed. There is another term, FIFO (First In, Last Out), which implies the first data entered will be removed last. This concept can be implemented in arrays, structs, linked lists, and other data types as required in the program.
+
+C. Arrays and Linked Lists
+
+An array is a data structure with a fixed (static) size based on the specified memory allocation, whereas a linked list is a data structure with a dynamic size, meaning its memory allocation is not determined during declaration.
+
+From the definitions above, we can see that arrays and linked lists are similar but different. Some differences between arrays and linked lists include:
+
+In arrays, memory allocation is determined during declaration and is fixed, while linked lists can dynamically change their size as needed. For example:
+
+Adding or deleting elements at the front and back
+Removing elements at specific positions
+Memory usage: Arrays have limited memory as defined during declaration, while linked lists can utilize memory dynamically without a predefined limit.
+
+Therefore, the primary difference between arrays and linked lists lies in their memory allocation and size flexibility, even though both are linear data storage structures.
