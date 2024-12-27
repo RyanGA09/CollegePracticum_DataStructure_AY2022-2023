@@ -1,0 +1,9 @@
+Question:
+State why or why not we should study data structures seriously?
+
+Answer:
+1. Reason 1: Because by studying data structures, we can gain insight into the types of data types used in programs.
+2. Reason 2: Because by knowing the usage and application of data structures, we will know the difference and more efficient usage between ordinary data types and data types in data structures.
+3. Reason 3: It is easier to create and process data in a program if we use data types in data structures.
+4. Reason 4: If we use data types in data structures, then the grouping of variables in the program is more organized and structured.
+5. Reason 5: If you study the data structure seriously, then making the program will be easier.
