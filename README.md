@@ -1,4 +1,4 @@
-# College Practicum - Data Structure AY2021-2022
+# College Practicum - Data Structure Semester 2 (AY2021-2022)
 
 ## Author
 
